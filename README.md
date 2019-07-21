@@ -1,5 +1,10 @@
 # Reformulation of LBP through Convolutional Filters
 
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Reformulation-of-LBP-through-Convolutional-Filters.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Reformulation-of-LBP-through-Convolutional-Filters.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Reformulation-of-LBP-through-Convolutional-Filters.svg)
+![GitHub](https://img.shields.io/github/license/whoisraibolt/Reformulation-of-LBP-through-Convolutional-Filters.svg)
+
 In  (Juefei-Xu  et  al.,  2016),  the  author  demonstrates that it is possible to reformulate the LBP through convolutional filters.
 
 ## Overview
